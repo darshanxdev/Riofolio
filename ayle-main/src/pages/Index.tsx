@@ -44,7 +44,7 @@ const projects = [
     blurb:
       "A soul crafted music bot offering seamless music playback.",
     stack: ["Vite", "React", "Motion"],
-    href: "2",
+    href: "https://github.com/darshanxdev/Riofolio/edit/main/ayle-main/src/pages/Index.tsx",
     cta: "View Website",
     featured: false,
   },
