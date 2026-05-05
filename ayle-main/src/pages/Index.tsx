@@ -19,10 +19,10 @@ const DISCORD_ID = "544047377540186114";
 
 const projects = [
   {
-    name: "inamusic",
+    name: "Zeron",
     status: "live" as const,
     blurb:
-      "A crafted music experience focused on discovery and flow — smooth player UI, curated browsing, and responsive playback across devices.",
+      "Fastest Antinuke and multipurpose bot made for all servers.",
     stack: ["React", "Node", "Audio"],
     href: "https://inamusic.in",
     cta: "Visit Site",
@@ -32,19 +32,19 @@ const projects = [
     name: "Evadex",
     status: "live" as const,
     blurb:
-      "A sleek dex-style lookup interface — fast search, clean typography, and a UI tuned for quick scanning.",
+      "A modern UI Web.",
     stack: ["React", "TypeScript", "Tailwind"],
     href: "https://evadexayliee",
     cta: "Preview",
     featured: true,
   },
   {
-    name: "ayliee.dev",
+    name: "Yukii",
     status: "live" as const,
     blurb:
-      "My personal corner of the web — a home for notes, work, and experiments with glassy surfaces and subtle motion.",
+      "A soul crafted music bot offering seamless music playback.",
     stack: ["Vite", "React", "Motion"],
-    href: "https://ayliee.dev",
+    href: "2",
     cta: "View Website",
     featured: false,
   },
